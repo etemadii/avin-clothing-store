@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+figure_crops/preview_*.png
+.DS_Store
