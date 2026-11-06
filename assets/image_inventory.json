@@ -1,0 +1,394 @@
+[
+ {
+  "page": 1,
+  "xref": 223,
+  "width": 705,
+  "height": 470,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   27.5,
+   58.3,
+   574.1,
+   422.8
+  ],
+  "file": "p01_xref223_705x470.png"
+ },
+ {
+  "page": 1,
+  "xref": 224,
+  "width": 154,
+  "height": 154,
+  "colorspace": "",
+  "rect": [
+   490.3,
+   681.4,
+   528.4,
+   719.5
+  ],
+  "file": "p01_xref224_154x154.png"
+ },
+ {
+  "page": 2,
+  "xref": 231,
+  "width": 293,
+  "height": 464,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   129.0,
+   252.6,
+   356.0,
+   612.6
+  ],
+  "file": "p02_xref231_293x464.png"
+ },
+ {
+  "page": 3,
+  "xref": 235,
+  "width": 123,
+  "height": 120,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   69.9,
+   261.2,
+   164.9,
+   354.2
+  ],
+  "file": "p03_xref235_123x120.png"
+ },
+ {
+  "page": 3,
+  "xref": 236,
+  "width": 137,
+  "height": 169,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   64.7,
+   118.4,
+   170.2,
+   248.8
+  ],
+  "file": "p03_xref236_137x169.png"
+ },
+ {
+  "page": 3,
+  "xref": 237,
+  "width": 44,
+  "height": 182,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   100.6,
+   505.6,
+   134.7,
+   646.1
+  ],
+  "file": "p03_xref237_44x182.png"
+ },
+ {
+  "page": 3,
+  "xref": 238,
+  "width": 100,
+  "height": 150,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   79.0,
+   375.5,
+   155.9,
+   490.9
+  ],
+  "file": "p03_xref238_100x150.png"
+ },
+ {
+  "page": 4,
+  "xref": 241,
+  "width": 582,
+  "height": 349,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   59.3,
+   123.2,
+   510.8,
+   394.1
+  ],
+  "file": "p04_xref241_582x349.png"
+ },
+ {
+  "page": 5,
+  "xref": 244,
+  "width": 217,
+  "height": 323,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   360.7,
+   124.4,
+   528.2,
+   374.5
+  ],
+  "file": "p05_xref244_217x323.png"
+ },
+ {
+  "page": 5,
+  "xref": 245,
+  "width": 142,
+  "height": 112,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   391.4,
+   571.9,
+   501.0,
+   658.1
+  ],
+  "file": "p05_xref245_142x112.png"
+ },
+ {
+  "page": 5,
+  "xref": 246,
+  "width": 140,
+  "height": 100,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   232.6,
+   571.9,
+   341.5,
+   649.3
+  ],
+  "file": "p05_xref246_140x100.png"
+ },
+ {
+  "page": 5,
+  "xref": 247,
+  "width": 152,
+  "height": 316,
+  "colorspace": "DeviceGray",
+  "rect": [
+   190.8,
+   129.6,
+   308.1,
+   374.5
+  ],
+  "file": "p05_xref247_152x316.png"
+ },
+ {
+  "page": 6,
+  "xref": 250,
+  "width": 257,
+  "height": 260,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   135.3,
+   536.7,
+   334.2,
+   737.7
+  ],
+  "file": "p06_xref250_257x260.png"
+ },
+ {
+  "page": 7,
+  "xref": 255,
+  "width": 130,
+  "height": 177,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   53.7,
+   356.1,
+   154.1,
+   493.0
+  ],
+  "file": "p07_xref255_130x177.png"
+ },
+ {
+  "page": 7,
+  "xref": 258,
+  "width": 223,
+  "height": 157,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   19.4,
+   535.0,
+   191.9,
+   656.5
+  ],
+  "file": "p07_xref258_223x157.png"
+ },
+ {
+  "page": 7,
+  "xref": 259,
+  "width": 454,
+  "height": 166,
+  "colorspace": "ICCBased",
+  "rect": [
+   190.8,
+   581.4,
+   542.9,
+   710.7
+  ],
+  "file": "p07_xref259_454x166.png"
+ },
+ {
+  "page": 7,
+  "xref": 260,
+  "width": 303,
+  "height": 331,
+  "colorspace": "ICCBased",
+  "rect": [
+   249.4,
+   164.0,
+   484.2,
+   420.8
+  ],
+  "file": "p07_xref260_303x331.png"
+ },
+ {
+  "page": 8,
+  "xref": 264,
+  "width": 363,
+  "height": 224,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   93.9,
+   523.2,
+   375.6,
+   696.7
+  ],
+  "file": "p08_xref264_363x224.png"
+ },
+ {
+  "page": 9,
+  "xref": 270,
+  "width": 624,
+  "height": 413,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   58.7,
+   192.1,
+   542.9,
+   512.1
+  ],
+  "file": "p09_xref270_624x413.png"
+ },
+ {
+  "page": 10,
+  "xref": 274,
+  "width": 454,
+  "height": 296,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   58.7,
+   58.3,
+   410.9,
+   287.7
+  ],
+  "file": "p10_xref274_454x296.png"
+ },
+ {
+  "page": 11,
+  "xref": 277,
+  "width": 454,
+  "height": 274,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   190.8,
+   197.7,
+   542.9,
+   409.8
+  ],
+  "file": "p11_xref277_454x274.png"
+ },
+ {
+  "page": 12,
+  "xref": 280,
+  "width": 625,
+  "height": 472,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   58.7,
+   58.3,
+   542.9,
+   423.7
+  ],
+  "file": "p12_xref280_625x472.png"
+ },
+ {
+  "page": 12,
+  "xref": 281,
+  "width": 313,
+  "height": 86,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   58.7,
+   552.8,
+   300.8,
+   619.5
+  ],
+  "file": "p12_xref281_313x86.png"
+ },
+ {
+  "page": 12,
+  "xref": 282,
+  "width": 228,
+  "height": 77,
+  "colorspace": "DeviceGray",
+  "rect": [
+   58.7,
+   465.1,
+   234.8,
+   524.7
+  ],
+  "file": "p12_xref282_228x77.png"
+ },
+ {
+  "page": 12,
+  "xref": 283,
+  "width": 227,
+  "height": 79,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   234.8,
+   465.1,
+   410.9,
+   525.8
+  ],
+  "file": "p12_xref283_227x79.png"
+ },
+ {
+  "page": 13,
+  "xref": 286,
+  "width": 303,
+  "height": 248,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   252.4,
+   207.0,
+   487.2,
+   399.2
+  ],
+  "file": "p13_xref286_303x248.png"
+ },
+ {
+  "page": 14,
+  "xref": 292,
+  "width": 454,
+  "height": 324,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   58.7,
+   58.3,
+   410.9,
+   309.7
+  ],
+  "file": "p14_xref292_454x324.png"
+ },
+ {
+  "page": 15,
+  "xref": 296,
+  "width": 454,
+  "height": 431,
+  "colorspace": "DeviceCMYK",
+  "rect": [
+   190.8,
+   231.5,
+   542.9,
+   565.4
+  ],
+  "file": "p15_xref296_454x431.png"
+ }
+]
